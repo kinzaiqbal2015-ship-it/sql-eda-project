@@ -34,10 +34,11 @@ This project focuses on Exploratory Data Analysis (EDA) using SQL Server to expl
 - sql/04_ranking_analysis.sql
 
 ## Analysis Sections
-1. Database and Dimension Exploration
-2. Measure Exploration and Business KPIs
-3. Magnitude Analysis
-4. Ranking Analysis
+1. Quality Checks 
+2. Database and Dimension Exploration
+3. Measure Exploration and Business KPIs
+4. Magnitude Analysis
+5. Ranking Analysis
 
 ## Database
 The project uses sales, customer, and product tables from the Gold layer.
