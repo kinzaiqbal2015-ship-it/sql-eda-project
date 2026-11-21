@@ -27,6 +27,7 @@ This project focuses on Exploratory Data Analysis (EDA) using SQL Server to expl
 - TOP
 
 ## Project Structure
+- sql/00_quality_checks.sql
 - sql/01_database_and_dimension_exploration.sql
 - sql/02_measure_exploration_and_kpis.sql
 - sql/03_magnitude_analysis.sql
